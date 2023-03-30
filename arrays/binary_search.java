@@ -17,6 +17,7 @@ public class binary_search {
             }else{
                 end=mid-1;
             }
+            System.out.println("hello");
 
         }
         return-1;
